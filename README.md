@@ -9,8 +9,8 @@ The project focuses on authentication, protected routes, external API integratio
 
 | Service  | URL                             |
 | -------- | ------------------------------- |
-| Frontend | `https://app.vercel.app`   |
-| Backend  | `https://onrender.com` |
+| Frontend | `https://crypto-advisor-two.vercel.app/`   |
+| Backend  | `https://cryptoadvisor-xgd0.onrender.com` |
 
 Replace these URLs after deployment.
 
